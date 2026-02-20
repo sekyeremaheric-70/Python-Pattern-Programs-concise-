@@ -1,0 +1,1 @@
+Star Traingle: n=7 for i in range(N): print('s's(i+1)) 2 Numbers Traingle: n=7 for i in range(n): for j in range (i+1): print(j+1,end=' ') 3 Alphabet Triangle: n=7 for i in range(n):for Q in range(i+1): print(chr(70),end='Q')
